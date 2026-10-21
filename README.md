@@ -32,4 +32,4 @@ CT-simulation logs from a tertiary-care radiotherapy department, 2020–2025 (si
 
 ## Author
 
-**Vineeth Muraleedharan** — Senior Radiation Therapist (RTT) · [GitHub](https://github.com/Vineeth-Muraleedharan)
+**Vineeth Muraleedharan**  · [GitHub](https://github.com/Vineeth-Muraleedharan)
