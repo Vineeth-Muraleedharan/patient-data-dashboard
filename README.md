@@ -2,8 +2,8 @@
 
 A 6-year Power BI dashboard analyzing 11,023 anonymized Patients records from a tertiary-care radiotherapy department (2020-2025); patient volume trends, case mix, treatment technique patterns, and recurrence analysis.
 
-![Dashboard overview](images/dashboard-overview.png)
-![Clinical deep-dive](images/clinical-deep-dive.png)
+![Dashboard overview](Images/dashboard-overview.png)
+![Clinical deep-dive](Images/clinical-deep-dive.png)
 
 ## Overview
 
