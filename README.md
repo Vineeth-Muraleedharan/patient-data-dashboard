@@ -28,7 +28,7 @@ Power BI Desktop · DAX measures · Power Query (M) · custom report theme
 
 ## Data source & methodology
 
-CT-simulation logs from a tertiary-care radiotherapy department, 2020–2025 (six annual sheets), cleaned and anonymized — patient names and MRD/RT numbers removed prior to analysis. Recurrence is inferred from sequential RT-number suffixes; treatment site and case type are derived from diagnosis and site text. Figures reflect a fixed export snapshot, not a live data feed.
+CT-simulation logs from a tertiary-care radiotherapy department, 2020–2025 (six annual sheets), cleaned and anonymized, patient names and MRD/RT numbers removed prior to analysis. Recurrence is inferred from sequential RT-number suffixes; treatment site and case type are derived from diagnosis and site text. Figures reflect a fixed export snapshot, not a live data feed.
 
 ## Author
 
